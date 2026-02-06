@@ -4,7 +4,7 @@ A project on Speech Recognition using Hidden Markov Model
 SPEECH RECOGNITION SYSTEM - GROUP 14
 
 SYSTEM REQUIREMENTS:
-- Python 3.12
+- Python 3.11
 - Internet connection (required only for the initial setup to download libraries)
 
 ONLINE REPOSITORY:
