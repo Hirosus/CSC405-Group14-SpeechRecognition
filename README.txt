@@ -2,7 +2,7 @@ SPEECH RECOGNITION SYSTEM - GROUP 14
 ====================================
 
 SYSTEM REQUIREMENTS:
-- Python 3.10 or newer
+- Python 3.11
 - Internet connection (required only for the initial setup to download libraries)
 
 HOW TO RUN THE APPLICATION:
